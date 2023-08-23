@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeeplodha&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeeplodha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuldeeplodha" alt="kuldeeplodha" /></a> </p>
-
 - 🔭 I’m currently working on [Shelter Web App](https://github.com/ShelterAssociates/Shelter)
 
-- 🌱 I’m currently doing MS In **Machine Learning and Artificial intelligence**
+- 🌱 I’m currently doing MS In **Machine Lerning and Artificial intelligence**
 
-- 💬 Ask me about **python, pandas, data analysis, Django**
+- 💬 Ask me about **python, pandas, data analysis, django**
 
 - 📫 How to reach me **kuldeeplodha04@gmail.com**
 
@@ -18,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kuldeeplodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldeeplodha" height="30" width="40" /></a>
-<a href="https://kaggle.com/kuldeeplodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kuldeep lodha" height="30" width="40" /></a>
+<a href="https://kaggle.com/kuldeep lodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kuldeep lodha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kuldeeplodha04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kuldeeplodha04" height="30" width="40" /></a>
 </p>
 
