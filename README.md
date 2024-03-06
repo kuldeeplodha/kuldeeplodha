@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeeplodha&show_icons=true&locale=en" alt="kuldeeplodha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeeplodha&" alt="kuldeeplodha" /></p>
+</br>
+ 
+  ![Snake animation](https://github.com/kuldeeplodha/kuldeeplodha/blob/output/github-contribution-grid-snake.svg)
