@@ -1,4 +1,4 @@
-![Kuldeep's GitHub Banner](https://github.com/kuldeeplodha/kuldeeplodha/blob/main/media/eat-sleep-code-repeat-black-background-programmer-quotes-3440x1440-5947.png)
+![Kuldeep's GitHub Banner](https://github.com/kuldeeplodha/kuldeeplodha/blob/main/media/eat-sleep-code-repeat-black-background-programmer-quotes-3440x1440-5947.jpg)
 
 <h1 align="center">Hi 👋, I'm Kuldeep Lodha</h1>
 <h3 align="center">A passionate software developer from India</h3>
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Shelter Web App](https://github.com/ShelterAssociates/Shelter)
 
-- 🌱 I’m currently doing MS In **Machine Lerning and Artificial intelligence**
+- 🌱 I’m currently doing MS In **Machine Learning and Artificial intelligence**
 
-- 💬 Ask me about **python, pandas, data analysis, django**
+- 💬 Ask me about **python, pandas, data analysis, Django**
 
 - 📫 How to reach me **kuldeeplodha04@gmail.com**
 
